@@ -1,4 +1,4 @@
-#ArduinoCarWorkshopWestlab
+# ArduinoCarWorkshopWestlab
 
 高校生体験会(2015)の時のプログラムと配線図
 
@@ -9,7 +9,7 @@
 alt="movie on youtube" width=50% border="10" /></a>  
 [movie on youtube](https://www.youtube.com/watch?v=dkHKR7AGBmk)  
 
-##配線図 Wiring
+## 配線図 Wiring
 サーボモータを3つ使うため，マイコン用電源に加えて，サーボ用電源を伸ばしてあげる必要があります．  
 これがブレッドボードでの例を示していますが，ユニバーサル基盤に直接配線すればOKです． 
 <a><img src="https://github.com/matzTada/ArduinoCarWorkShopForHighSchoolStudentWestlab/blob/master/wiring/wiringFor3ServoMotorsBreadboard.png" 
@@ -23,7 +23,7 @@ Arduino UNOの場合はサーボを一つ動かすぐらいなら大丈夫です
 ただし，通信がある場合などは**GNDを共有すること**が大切ですよ．  
 (詳しくはLet's google it!)
 
-##プログラムの書き込みについて
+## プログラムの書き込みについて
 今回用いたマイコンは[Pololu A-Star 32U4 Mini LV](https://www.pololu.com/product/3103)でした．  
 もしArduino互換のマイコンに対してArduino IDEから書き込みを行う場合，Arduino IDEにドライバを教えて上げる必要があります．  
 今回使うマイコンの場合は<https://www.pololu.com/docs/0J61/6.2>に手順とドライバのリンクが書いてあるので参照してみてね．  
