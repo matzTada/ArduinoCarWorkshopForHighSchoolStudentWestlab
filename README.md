@@ -1,8 +1,16 @@
 # ArduinoCarWorkshopWestlab
 
-高校生体験会(2015)の時のプログラムと配線図
+高校生体験会(2017, 2015)の時のプログラムと配線図
 
-教える側が作った団扇カー  
+あれから2年．同じ人たちが作ったサイコロカー in 2017  
+（今度こそサイコロをけって動いてる）  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=rAjcyetKL98
+" target="_blank"><img src="http://img.youtube.com/vi/rAjcyetKL98/0.jpg" 
+alt="movie on youtube" width=50% border="10" /></a>  
+[movie on youtube](https://www.youtube.com/watch?v=rAjcyetKL98)  
+
+
+教える側が作った団扇カー in 2015  
 （ほんとは，振動で動いてる）  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dkHKR7AGBmk
 " target="_blank"><img src="http://img.youtube.com/vi/dkHKR7AGBmk/0.jpg" 
